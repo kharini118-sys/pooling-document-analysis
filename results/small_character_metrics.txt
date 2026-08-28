@@ -1,0 +1,27 @@
+SMALL CHARACTER PRESERVATION ANALYSIS
+=============================================
+
+Large Text
+Original resolution: (90, 870)
+Pooled resolution: (45, 435)
+Original active edges: 2933
+Pooled active edges: 1518
+
+Medium Text
+Original resolution: (80, 870)
+Pooled resolution: (40, 435)
+Original active edges: 2200
+Pooled active edges: 1149
+
+Small Text
+Original resolution: (70, 670)
+Pooled resolution: (35, 335)
+Original active edges: 1152
+Pooled active edges: 605
+
+Very Small Text
+Original resolution: (60, 670)
+Pooled resolution: (30, 335)
+Original active edges: 366
+Pooled active edges: 195
+
