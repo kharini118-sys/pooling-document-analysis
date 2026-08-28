@@ -1,0 +1,4 @@
+Method,Resolution,Total Positions,Active Features,Active Feature %,Mean Intensity
+Original Edge Map,700 x 1000,700000,16899,2.41,6.16
+2x2 Max Pooling,350 x 500,175000,8591,4.91,12.52
+2x2 Average Pooling,350 x 500,175000,8591,4.91,6.13
