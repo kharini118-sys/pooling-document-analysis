@@ -1,0 +1,15 @@
+POOLING COMPARISON ANALYSIS
+========================================
+
+Original Edge Map
+{'resolution': (700, 1000), 'total_pixels': 700000, 'active_pixels': 16899, 'active_percentage': 2.414142857142857, 'mean_intensity': 6.156064285714286}
+
+Max Pooling
+{'resolution': (350, 500), 'total_pixels': 175000, 'active_pixels': 8591, 'active_percentage': 4.909142857142857, 'mean_intensity': 12.518314285714286}
+
+Average Pooling
+{'resolution': (350, 500), 'total_pixels': 175000, 'active_pixels': 8591, 'active_percentage': 4.909142857142857, 'mean_intensity': 6.131114285714285}
+
+Spatial Resolution Reduction
+Max Pooling: 75.0%
+Average Pooling: 75.0%
